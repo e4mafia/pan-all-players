@@ -27,7 +27,7 @@
       "name": "Custom"
     }
   ],
-  "url": "https://github.com/YOURUSERNAME/pan-all-players",
-  "manifest": "https://raw.githubusercontent.com/YOURUSERNAME/pan-all-players/main/module.json",
-  "download": "https://github.com/YOURUSERNAME/pan-all-players/archive/refs/heads/main.zip"
+  "url": "https://github.com/e4mafia/pan-all-players",
+  "manifest": "https://raw.githubusercontent.com/e4mafia/pan-all-players/main/module.json",
+  "download": "https://github.com/e4mafia/pan-all-players/archive/refs/heads/main.zip"
 }
