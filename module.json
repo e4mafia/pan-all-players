@@ -1,0 +1,32 @@
+{
+  "id": "pan-all-players",
+  "title": "Pan All Players",
+  "description": "Lets the GM pan every connected player's camera to a chosen point, token, or the GM's current view — via socketlib, no player interaction required.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Custom"
+    }
+  ],
+  "url": "https://github.com/e4mafia/pan-all-players",
+  "manifest": "https://raw.githubusercontent.com/e4mafia/pan-all-players/main/module.json",
+  "download": "https://github.com/e4mafia/pan-all-players/archive/refs/heads/main.zip"
+}
